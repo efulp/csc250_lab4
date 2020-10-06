@@ -1,3 +1,11 @@
+/**
+ * @author Nirre Pluf {@literal pluf@wfu.edu}
+ * @date Oct. 6, 2020
+ * @assignment Lab 4
+ * @course CSC 250
+ *
+ * header files for parsing the command line arguments
+ **/  
 #ifndef PROC_ARGS
 #define PROC_ARGS
 
